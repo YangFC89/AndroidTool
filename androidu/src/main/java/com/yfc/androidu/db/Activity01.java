@@ -37,7 +37,8 @@ import com.baidu.location.BDLocation;
 import com.baidu.location.BDLocationListener;
 import com.baidu.location.LocationClient;
 import com.baidu.location.LocationClientOption;
-import com.yfc.androidx.R;
+import com.yfc.androidu.R;
+
 
 import java.io.IOException;
 import java.util.ArrayList;
