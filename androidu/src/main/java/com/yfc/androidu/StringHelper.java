@@ -14,7 +14,7 @@ public class StringHelper {
     /**
      * 获得输入的字符串
      *
-     * @param editText
+     * @param editText 输入框控件
      * @return
      */
     public static String getEditText(EditText editText) {
@@ -25,7 +25,7 @@ public class StringHelper {
     /**
      * 输入是否为空
      *
-     * @param editText
+     * @param editText 输入框控件
      * @return
      */
     public static boolean isEdit(EditText editText) {
