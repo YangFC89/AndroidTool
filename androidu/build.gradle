@@ -33,7 +33,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    androidTestImplementation files('libs/BaiduLBS_Android.jar')
-    androidTestImplementation files('libs/pinyin4j-2.5.0.jar')
+    //xUtils3框架
+    api 'org.xutils:xutils:3.3.36'
 
 }
