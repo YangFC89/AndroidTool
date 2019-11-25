@@ -162,6 +162,12 @@ SharedPreferences 帮助类
 ```
 # 卡片布局框架
 https://blog.csdn.net/javacainiao931121/article/details/51720807 使用方法 （已集成）
+# 64K问题解决
+https://www.jianshu.com/p/dd90d7e7c691 使用方法（已集成）
 
-# 图片处理
+
+# 图片处理 （未集成）
 https://github.com/jeasonlzy/ImagePicker
+# 侵入式布局 （未集成）
+https://github.com/gyf-dev/ImmersionBar
+
