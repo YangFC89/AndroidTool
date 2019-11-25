@@ -1,12 +1,9 @@
 package com.yfc.androidtool;
 
 import android.content.Context;
-
 import com.readystatesoftware.chuck.ChuckInterceptor;
 import com.yfc.androidu.HttpConnection;
-
 import java.io.IOException;
-
 import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
