@@ -180,8 +180,8 @@ https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用
      </application>           
 </manifest>
 ```
-
-
+# 插件ButterKnife （未集成）
+https://github.com/JakeWharton/butterknife
 # 图片处理 （未集成）
 https://github.com/jeasonlzy/ImagePicker
 # 侵入式布局 （未集成）
