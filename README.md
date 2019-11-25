@@ -1,4 +1,4 @@
-# AndroidTool
+# AndroidTool       
 # 引入
 project's build.gradle
 ```
@@ -15,6 +15,9 @@ dependencies {
 	        implementation 'com.github.q7938182:AndroidTool:v1.4'
 	}
 ```
+[自定义控件]: /widget.md
+# [自定义控件]
+
 # 网络请求
 Android okHttp网络请求之Retrofit+Okhttp+RxJava组合  https://www.cnblogs.com/whoislcj/p/5539239.html
 
