@@ -70,6 +70,8 @@ https://blog.csdn.net/weixin_43731179/article/details/85836172 使用方法（�
 https://blog.csdn.net/qq_28034009/article/details/81905417 使用方法（已集成）
 # 64K问题解决（已集成）
 https://www.jianshu.com/p/dd90d7e7c691 使用方法（已集成）
+# Java注解 （已集成）
+https://blog.csdn.net/vbirdbest/article/details/78822646 使用简介（已集成）
 # 屏幕适配方案（已集成）
 https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用方法（已集成）
 
