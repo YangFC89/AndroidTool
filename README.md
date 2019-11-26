@@ -37,6 +37,9 @@ Android okHttp网络请求之Retrofit+Okhttp+RxJava组合  https://www.cnblogs.c
 # SharePreferencesHelper类
 SharedPreferences 帮助类
 
+# 仿美团城市选择 （已集成）
+https://github.com/zaaach/CityPicker 使用方法（已集成）
+
 # 四级联动地址选择
 使用：
 ```
@@ -60,7 +63,7 @@ https://blog.csdn.net/javacainiao931121/article/details/51720807 使用方法 �
 # 横向流线布局 （已集成）
 https://github.com/hongyangAndroid/FlowLayout 使用方法（已集成）
 # 仪表盘控件 圆环进度条 （已集成）
-https://github.com/Shinelw/ColorArcProgressBar 使用方法（已集成）
+https://blog.csdn.net/weixin_43731179/article/details/85836172 使用方法（已集成）
 # 图片压缩框架 （已集成）
 https://blog.csdn.net/qq_28034009/article/details/81905417 使用方法（已集成）
 # 64K问题解决（已集成）
