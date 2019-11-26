@@ -79,6 +79,8 @@ https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用
 
 简单使用 https://blog.csdn.net/qq_34801506/article/details/80538944
 
+# SmartRefreshLayout下拉刷新、上拉加载 （未集成）
+控件简介使用 https://github.com/scwang90/SmartRefreshLayout
 
 # 插件ButterKnife （未集成）
 https://github.com/JakeWharton/butterknife
