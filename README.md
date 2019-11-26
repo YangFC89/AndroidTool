@@ -39,6 +39,8 @@ SharedPreferences 帮助类
 
 # 仿美团城市选择 （已集成）
 https://github.com/zaaach/CityPicker 使用方法（已集成）
+# 轮播控件 支持任何View的轮播（已集成）
+https://github.com/donkingliang/CustomBanner 使用方法（已集成）
 
 # 四级联动地址选择
 使用：
