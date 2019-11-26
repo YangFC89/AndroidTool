@@ -80,6 +80,9 @@ https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用
 
 简单使用 https://blog.csdn.net/qq_34801506/article/details/80538944
 
+# 万能适配器 BaseRecyclerViewAdapterHelper （已集成）
+使用简介 https://www.jianshu.com/p/1e20f301272e 
+
 # SmartRefreshLayout下拉刷新、上拉加载 （未集成）
 控件简介使用 https://github.com/scwang90/SmartRefreshLayout
 
