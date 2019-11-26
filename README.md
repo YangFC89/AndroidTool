@@ -57,6 +57,10 @@ SharedPreferences 帮助类
 ```
 # 卡片布局框架 （已集成）
 https://blog.csdn.net/javacainiao931121/article/details/51720807 使用方法 （已集成）
+# 横向流线布局 （已集成）
+https://github.com/hongyangAndroid/FlowLayout 使用方法（已集成）
+# 仪表盘控件 圆环进度条 （已集成）
+https://github.com/Shinelw/ColorArcProgressBar 使用方法（已集成）
 # 图片压缩框架 （已集成）
 https://blog.csdn.net/qq_28034009/article/details/81905417 使用方法（已集成）
 # 64K问题解决（已集成）
