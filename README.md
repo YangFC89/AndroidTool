@@ -81,6 +81,8 @@ https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用
      </application>           
 </manifest>
 ```
+# 二维码 扫描、生成、识别图中二维码 （已集成）
+https://blog.csdn.net/fan7983377/article/details/51499508 使用方法（已集成）
 # RecyclerView 代替listView等控件的适配性 （已集成）
 控件简介 https://www.jianshu.com/p/4f9591291365
 
