@@ -183,6 +183,12 @@ https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用
      </application>           
 </manifest>
 ```
+# RecyclerView 代替listView等控件的适配性 （已集成）
+控件简介 https://www.jianshu.com/p/4f9591291365
+
+简单使用 https://blog.csdn.net/qq_34801506/article/details/80538944
+
+
 # 插件ButterKnife （未集成）
 https://github.com/JakeWharton/butterknife
 
