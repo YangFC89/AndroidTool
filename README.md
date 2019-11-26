@@ -12,7 +12,7 @@ allprojects {
 Add the dependency
 ```
 dependencies {
-	        implementation 'com.github.q7938182:AndroidTool:v1.4'
+	        implementation 'com.github.q7938182:AndroidTool:v2.0'
 	}
 ```
 [自定义控件]: /widgets.md
