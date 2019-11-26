@@ -55,11 +55,13 @@ SharedPreferences 帮助类
                     }
                 });
 ```
-# 卡片布局框架
+# 卡片布局框架 （已集成）
 https://blog.csdn.net/javacainiao931121/article/details/51720807 使用方法 （已集成）
-# 64K问题解决
+# 图片压缩框架 （已集成）
+https://blog.csdn.net/qq_28034009/article/details/81905417 使用方法（已集成）
+# 64K问题解决（已集成）
 https://www.jianshu.com/p/dd90d7e7c691 使用方法（已集成）
-# 屏幕适配方案
+# 屏幕适配方案（已集成）
 https://github.com/JessYanCoding/AndroidAutoSize/blob/master/README-zh.md 使用方法（已集成）
 
 请在 AndroidManifest 中填写全局设计图尺寸 (单位 dp)，如果使用副单位，则可以直接填写像素尺寸，不需要再将像素转化为 dp，详情请查看 demo-subunits
