@@ -15,7 +15,7 @@ dependencies {
 	        implementation 'com.github.q7938182:AndroidTool:v1.4'
 	}
 ```
-[自定义控件]: /widget.md
+[自定义控件]: /blob/master/widgets.md
 # [自定义控件]
 
 # 网络请求
