@@ -34,3 +34,23 @@ activity里:
             super.onPause();
             TextView.stopAutoScroll();
         }
+
+
+# 上下左右滑动ScrollView
+
+```
+<com.yfc.androidu.widget.HVScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="1500dp"
+        android:layout_height="1500dp"
+        android:background="@color/chuck_colorAccent">
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:background="@color/chuck_colorPrimary"
+            android:src="@mipmap/icon_close"/>
+    </RelativeLayout>
+</com.yfc.androidu.widget.HVScrollView>
+```
