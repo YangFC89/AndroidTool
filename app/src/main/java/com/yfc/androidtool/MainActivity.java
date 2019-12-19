@@ -14,10 +14,11 @@ public class MainActivity extends RxAppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ShopRequestHelper.serverHomeShop(MainActivity.this)
-                .subscribe(homeShopResponse -> {
-                    Log.i("Okhttp", homeShopResponse.message);
-                }, throwable -> throwable.printStackTrace());
+
+//        ShopRequestHelper.serverHomeShop(MainActivity.this)
+//                .subscribe(homeShopResponse -> {
+//                    Log.i("Okhttp", homeShopResponse.message);
+//                }, throwable -> throwable.printStackTrace());
 
     }
 }

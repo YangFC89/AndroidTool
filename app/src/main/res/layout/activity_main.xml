@@ -5,20 +5,121 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<com.yfc.androidu.widget.HVScrollView
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <RelativeLayout
-        android:layout_width="1500dp"
-        android:layout_height="1500dp"
-        android:background="@color/chuck_colorAccent">
-        <ImageView
-            android:layout_width="350dp"
-            android:layout_height="350dp"
-            android:background="@color/chuck_colorPrimary"
-            android:src="@mipmap/icon_close"/>
-    </RelativeLayout>
-</com.yfc.androidu.widget.HVScrollView>
+    <com.yfc.androidu.widget.HVScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="1700dp"
+            android:layout_height="1330dp">
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:background="@mipmap/bg_map_01" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="425dp"
+                android:background="@mipmap/bg_map_02" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="850dp"
+                android:background="@mipmap/bg_map_03" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="1275dp"
+                android:background="@mipmap/bg_map_04" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginTop="333dp"
+                android:background="@mipmap/bg_map_05" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="425dp"
+                android:layout_marginTop="333dp"
+                android:background="@mipmap/bg_map_06" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="850dp"
+                android:layout_marginTop="333dp"
+                android:background="@mipmap/bg_map_07" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="1275dp"
+                android:layout_marginTop="333dp"
+                android:background="@mipmap/bg_map_08" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginTop="665dp"
+                android:background="@mipmap/bg_map_09" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="425dp"
+                android:layout_marginTop="665dp"
+                android:background="@mipmap/bg_map_10" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="850dp"
+                android:layout_marginTop="665dp"
+                android:background="@mipmap/bg_map_11" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="1275dp"
+                android:layout_marginTop="665dp"
+                android:background="@mipmap/bg_map_12" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginTop="998dp"
+                android:background="@mipmap/bg_map_13" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="425dp"
+                android:layout_marginTop="998dp"
+                android:background="@mipmap/bg_map_14" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="850dp"
+                android:layout_marginTop="998dp"
+                android:background="@mipmap/bg_map_15" />
+
+            <ImageView
+                android:layout_width="425dp"
+                android:layout_height="333dp"
+                android:layout_marginLeft="1275dp"
+                android:layout_marginTop="998dp"
+                android:background="@mipmap/bg_map_16" />
+
+
+        </RelativeLayout>
+    </com.yfc.androidu.widget.HVScrollView>
 
 
     <TextView
