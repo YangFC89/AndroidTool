@@ -54,3 +54,6 @@ activity里:
     </RelativeLayout>
 </com.yfc.androidu.widget.HVScrollView>
 ```
+# 小红点TipView
+
+
