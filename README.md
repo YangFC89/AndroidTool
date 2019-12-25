@@ -41,6 +41,7 @@ SharedPreferences 帮助类
 https://github.com/zaaach/CityPicker 使用方法（已集成）
 # 轮播控件 支持任何View的轮播（已集成）
 https://github.com/donkingliang/CustomBanner 使用方法（已集成）
+https://github.com/xiaohaibin/XBanner 使用方法（未集成）
 
 # 四级联动地址选择
 使用：
